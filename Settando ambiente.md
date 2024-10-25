@@ -21,4 +21,6 @@ repo init -u https://android.googlesource.com/platform/manifest -b android-12.1.
 
 repo sync
 
+repo sync -j8
+
 export ANDROID_HOME=/home/joimar/Android/Sdk
