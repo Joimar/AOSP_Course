@@ -23,6 +23,6 @@ repo sync
 
 repo sync -j8
 
-teste
+teste teste
 
 export ANDROID_HOME=/home/joimar/Android/Sdk
