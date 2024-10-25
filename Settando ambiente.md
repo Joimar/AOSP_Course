@@ -19,6 +19,6 @@ Olhe as builds em https://source.android.com/docs/setup/reference/build-numbers?
 
 repo init -u https://android.googlesource.com/platform/manifest -b android-12.1.0_r27
 
-
+repo sync
 
 export ANDROID_HOME=/home/joimar/Android/Sdk
