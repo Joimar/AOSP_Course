@@ -23,6 +23,6 @@ repo sync
 
 repo sync -j8
 
-teste teste teste teste mais uma merda de teste
+teste teste teste teste mais uma merda de testedada
 
 export ANDROID_HOME=/home/joimar/Android/Sdk
