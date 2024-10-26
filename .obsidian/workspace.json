@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Settando ambiente.md",
+                "file": "Unidade_1/HandsOn/Desafio 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Settando ambiente"
+              "title": "Desafio 1"
             }
           }
         ]
@@ -159,5 +159,13 @@
     }
   },
   "active": "ff51c747ed142ccc",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Unidade_1/1 Settando ambiente.md",
+    "Unidade_1/HandsOn/Desafio 1.md",
+    "Unidade_1/HandsOn",
+    "Unidade_1",
+    "images_files/Captura de tela de 2024-10-26 11-12-27.png",
+    "images_files/Captura de tela de 2024-10-14 11-28-56.png",
+    "images_files"
+  ]
 }
