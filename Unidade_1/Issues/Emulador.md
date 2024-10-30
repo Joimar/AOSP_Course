@@ -11,3 +11,5 @@ E o emulador só funciona quando uso
 
 ## Abordagem
 
+adb root 
+adb reboot

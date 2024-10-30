@@ -1,5 +1,6 @@
 # Descrição
-
+(Refazer, pois está parecendo o Hands On 3 e 4)
+(para refazer, usar o link https://senaicimatec.instructure.com/courses/3897/assignments/37367)
 Como customizar o Android para que seja capaz de  receber sinais de áudio e realizar equalização em  ambientes de engenharia automotiva?
 
 O desafio tem como objetivo a implementação de um dispositivo com sistema operacional Android e com funcionalidades emuladas que sejam capazes de receber sinais do protocolo Controller Area Network (CAN). Esse dispositivo emulado servirá como uma plataforma de testes e validação, permitindo a verificação do correto funcionamento da equalização de áudio em cenários controlados.  
