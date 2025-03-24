@@ -1,3 +1,11 @@
 [
-  "OA-file-hider"
+  "OA-file-hider",
+  "colored-text",
+  "highlightr-plugin",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "obsidian-book-search-plugin",
+  "obsidian-projects",
+  "obsidian-kanban"
 ]

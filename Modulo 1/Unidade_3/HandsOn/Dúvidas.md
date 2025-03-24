@@ -1,0 +1,1 @@
+No AOSP/external/libpcap/pcap/ tem can_socketcan.h. Ele já não seria uma interface para o CAN?
